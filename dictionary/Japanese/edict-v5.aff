@@ -1,0 +1,550 @@
+SET UTF-8
+
+SFX Aa Y 1
+SFX Aa い くありませんでした .
+
+SFX Ab Y 9
+SFX Ab う いませんでした .
+SFX Ab く きませんでした .
+SFX Ab ぐ ぎませんでした .
+SFX Ab す しませんでした .
+SFX Ab つ ちませんでした .
+SFX Ab ぬ にませんでした .
+SFX Ab ぶ びませんでした .
+SFX Ab む みませんでした .
+SFX Ab る りませんでした .
+
+SFX Ac Y 2
+SFX Ac くる きませんでした .
+SFX Ac る ませんでした .
+
+SFX Ad Y 1
+SFX Ad する しませんでした .
+
+SFX Ae Y 1
+SFX Ae い くありません .
+
+SFX Af Y 1
+SFX Af る ませんでした .
+
+SFX Ag Y 9
+SFX Ag う いましょう .
+SFX Ag く きましょう .
+SFX Ag ぐ ぎましょう .
+SFX Ag す しましょう .
+SFX Ag つ ちましょう .
+SFX Ag ぬ にましょう .
+SFX Ag ぶ びましょう .
+SFX Ag む みましょう .
+SFX Ag る りましょう .
+
+SFX Ah Y 2
+SFX Ah くる きましょう .
+SFX Ah る ましょう .
+
+SFX Ai Y 1
+SFX Ai する しましょう .
+
+SFX Aj Y 10
+SFX Aj ぐ いじゃう .
+SFX Aj く いちゃう .
+SFX Aj す しちゃう .
+SFX Aj う っちゃう .
+SFX Aj く っちゃう .
+SFX Aj つ っちゃう .
+SFX Aj る っちゃう .
+SFX Aj ぬ んじゃう .
+SFX Aj ぶ んじゃう .
+SFX Aj む んじゃう .
+
+SFX Ak Y 9
+SFX Ak う いすぎる .
+SFX Ak く きすぎる .
+SFX Ak ぐ ぎすぎる .
+SFX Ak す しすぎる .
+SFX Ak つ ちすぎる .
+SFX Ak ぬ にすぎる .
+SFX Ak ぶ びすぎる .
+SFX Ak む みすぎる .
+SFX Ak る りすぎる .
+
+SFX Al Y 9
+SFX Al う いなさい .
+SFX Al く きなさい .
+SFX Al ぐ ぎなさい .
+SFX Al す しなさい .
+SFX Al つ ちなさい .
+SFX Al ぬ になさい .
+SFX Al ぶ びなさい .
+SFX Al む みなさい .
+SFX Al る りなさい .
+
+SFX Am Y 9
+SFX Am う いました .
+SFX Am く きました .
+SFX Am ぐ ぎました .
+SFX Am す しました .
+SFX Am つ ちました .
+SFX Am ぬ にました .
+SFX Am ぶ びました .
+SFX Am む みました .
+SFX Am る りました .
+
+SFX An Y 9
+SFX An う いません .
+SFX An く きません .
+SFX An ぐ ぎません .
+SFX An す しません .
+SFX An つ ちません .
+SFX An ぬ にません .
+SFX An ぶ びません .
+SFX An む みません .
+SFX An る りません .
+
+SFX Ao Y 1
+SFX Ao い かったら .
+
+SFX Ap Y 1
+SFX Ap い かったり .
+
+SFX Aq Y 2
+SFX Aq くる きすぎる .
+SFX Aq る すぎる .
+
+SFX Ar Y 2
+SFX Ar くる きちゃう .
+SFX Ar る ちゃう .
+
+SFX As Y 2
+SFX As くる きなさい .
+SFX As る なさい .
+
+SFX At Y 2
+SFX At くる きました .
+SFX At る ました .
+
+SFX Au Y 2
+SFX Au くる きません .
+SFX Au る ません .
+
+SFX Av Y 2
+SFX Av くる こさせる .
+SFX Av る させる .
+
+SFX Aw Y 2
+SFX Aw くる こられる .
+SFX Aw る られる .
+
+SFX Ax Y 1
+SFX Ax する しすぎる .
+
+SFX Ay Y 1
+SFX Ay する しちゃう .
+
+SFX Az Y 1
+SFX Az する しなさい .
+
+SFX Ba Y 1
+SFX Ba する しました .
+
+SFX Bb Y 1
+SFX Bb する しません .
+
+SFX Bc Y 1
+SFX Bc る ましょう .
+
+SFX Bd Y 9
+SFX Bd う いそう .
+SFX Bd く きそう .
+SFX Bd ぐ ぎそう .
+SFX Bd す しそう .
+SFX Bd つ ちそう .
+SFX Bd ぬ にそう .
+SFX Bd ぶ びそう .
+SFX Bd む みそう .
+SFX Bd る りそう .
+
+SFX Be Y 9
+SFX Be う いたい .
+SFX Be く きたい .
+SFX Be ぐ ぎたい .
+SFX Be す したい .
+SFX Be つ ちたい .
+SFX Be ぬ にたい .
+SFX Be ぶ びたい .
+SFX Be む みたい .
+SFX Be る りたい .
+
+SFX Bf Y 9
+SFX Bf く いたら .
+SFX Bf ぐ いだら .
+SFX Bf す したら .
+SFX Bf う ったら .
+SFX Bf つ ったら .
+SFX Bf る ったら .
+SFX Bf ぬ んだら .
+SFX Bf ぶ んだら .
+SFX Bf む んだら .
+
+SFX Bg Y 9
+SFX Bg く いたり .
+SFX Bg ぐ いだり .
+SFX Bg す したり .
+SFX Bg う ったり .
+SFX Bg つ ったり .
+SFX Bg る ったり .
+SFX Bg ぬ んだり .
+SFX Bg ぶ んだり .
+SFX Bg む んだり .
+
+SFX Bh Y 9
+SFX Bh う います .
+SFX Bh く きます .
+SFX Bh ぐ ぎます .
+SFX Bh す します .
+SFX Bh つ ちます .
+SFX Bh ぬ にます .
+SFX Bh ぶ びます .
+SFX Bh む みます .
+SFX Bh る ります .
+
+SFX Bi Y 8
+SFX Bi く かせる .
+SFX Bi ぐ がせる .
+SFX Bi つ たせる .
+SFX Bi ぬ なせる .
+SFX Bi ぶ ばせる .
+SFX Bi む ませる .
+SFX Bi る らせる .
+SFX Bi う わせる .
+
+SFX Bj Y 1
+SFX Bj い かった .
+
+SFX Bk Y 9
+SFX Bk く かない .
+SFX Bk ぐ がない .
+SFX Bk す さない .
+SFX Bk つ たない .
+SFX Bk ぬ なない .
+SFX Bk ぶ ばない .
+SFX Bk む まない .
+SFX Bk る らない .
+SFX Bk う わない .
+
+SFX Bl Y 7
+SFX Bl く かれる .
+SFX Bl ぐ がれる .
+SFX Bl つ たれる .
+SFX Bl ぬ なれる .
+SFX Bl ぶ ばれる .
+SFX Bl む まれる .
+SFX Bl う われる .
+
+SFX Bm Y 2
+SFX Bm くる きそう .
+SFX Bm る そう .
+
+SFX Bn Y 2
+SFX Bn くる きたい .
+SFX Bn る たい .
+
+SFX Bo Y 2
+SFX Bo くる きたら .
+SFX Bo る たら .
+
+SFX Bp Y 2
+SFX Bp くる きたり .
+SFX Bp る たり .
+
+SFX Bq Y 2
+SFX Bq くる きます .
+SFX Bq る ます .
+
+SFX Br Y 1
+SFX Br い くない .
+
+SFX Bs Y 1
+SFX Bs い ければ .
+
+SFX Bt Y 2
+SFX Bt くる こない .
+SFX Bt る ない .
+
+SFX Bu Y 2
+SFX Bu くる こよう .
+SFX Bu る よう .
+
+SFX Bv Y 2
+SFX Bv くる これる .
+SFX Bv る れる .
+
+SFX Bw Y 1
+SFX Bw する させる .
+
+SFX Bx Y 1
+SFX Bx る させる .
+
+SFX By Y 1
+SFX By す される .
+
+SFX Bz Y 1
+SFX Bz する される .
+
+SFX Ca Y 1
+SFX Ca する しそう .
+
+SFX Cb Y 1
+SFX Cb する したい .
+
+SFX Cc Y 1
+SFX Cc する したら .
+
+SFX Cd Y 1
+SFX Cd する したり .
+
+SFX Ce Y 1
+SFX Ce する しない .
+
+SFX Cf Y 1
+SFX Cf する します .
+
+SFX Cg Y 1
+SFX Cg する しよう .
+
+SFX Ch Y 1
+SFX Ch い すぎる .
+
+SFX Ci Y 1
+SFX Ci る すぎる .
+
+SFX Cj Y 1
+SFX Cj る ちゃう .
+
+SFX Ck Y 1
+SFX Ck る なさい .
+
+SFX Cl Y 1
+SFX Cl る ました .
+
+SFX Cm Y 1
+SFX Cm る ません .
+
+SFX Cn Y 1
+SFX Cn る られる .
+
+SFX Co Y 1
+SFX Co る られる .
+
+SFX Cp Y 10
+SFX Cp く いた .
+SFX Cp ぐ いだ .
+SFX Cp す した .
+SFX Cp う った .
+SFX Cp く った .
+SFX Cp つ った .
+SFX Cp る った .
+SFX Cp ぬ んだ .
+SFX Cp ぶ んだ .
+SFX Cp む んだ .
+
+SFX Cq Y 10
+SFX Cq く いて .
+SFX Cq ぐ いで .
+SFX Cq す して .
+SFX Cq う って .
+SFX Cq く って .
+SFX Cq つ って .
+SFX Cq る って .
+SFX Cq ぬ んで .
+SFX Cq ぶ んで .
+SFX Cq む んで .
+
+SFX Cr Y 9
+SFX Cr う えば .
+SFX Cr く けば .
+SFX Cr ぐ げば .
+SFX Cr す せば .
+SFX Cr つ てば .
+SFX Cr ぬ ねば .
+SFX Cr ぶ べば .
+SFX Cr む めば .
+SFX Cr る れば .
+
+SFX Cs Y 9
+SFX Cs う える .
+SFX Cs く ける .
+SFX Cs ぐ げる .
+SFX Cs す せる .
+SFX Cs つ てる .
+SFX Cs ぬ ねる .
+SFX Cs ぶ べる .
+SFX Cs む める .
+SFX Cs る れる .
+
+SFX Ct Y 9
+SFX Ct う おう .
+SFX Ct く こう .
+SFX Ct ぐ ごう .
+SFX Ct す そう .
+SFX Ct つ とう .
+SFX Ct ぬ のう .
+SFX Ct ぶ ぼう .
+SFX Ct む もう .
+SFX Ct る ろう .
+
+SFX Cu Y 9
+SFX Cu く かず .
+SFX Cu ぐ がず .
+SFX Cu す さず .
+SFX Cu つ たず .
+SFX Cu ぬ なず .
+SFX Cu ぶ ばず .
+SFX Cu む まず .
+SFX Cu る らず .
+SFX Cu う わず .
+
+SFX Cv Y 2
+SFX Cv くる きた .
+SFX Cv る た .
+
+SFX Cw Y 2
+SFX Cw くる きて .
+SFX Cw る て .
+
+SFX Cx Y 1
+SFX Cx い くて .
+
+SFX Cy Y 2
+SFX Cy くる こい .
+SFX Cy る い .
+
+SFX Cz Y 2
+SFX Cz くる こず .
+SFX Cz る ず .
+
+SFX Da Y 1
+SFX Da する した .
+
+SFX Db Y 1
+SFX Db する して .
+
+SFX Dc Y 2
+SFX Dc する しろ .
+SFX Dc する せよ .
+
+SFX Dd Y 1
+SFX Dd する せず .
+
+SFX De Y 1
+SFX De い そう .
+
+SFX Df Y 1
+SFX Df る そう .
+
+SFX Dg Y 1
+SFX Dg る たい .
+
+SFX Dh Y 1
+SFX Dh る たら .
+
+SFX Di Y 1
+SFX Di る たり .
+
+SFX Dj Y 1
+SFX Dj る ない .
+
+SFX Dk Y 1
+SFX Dk る ます .
+
+SFX Dl Y 1
+SFX Dl る よう .
+
+SFX Dm Y 1
+SFX Dm る れば .
+
+SFX Dn Y 1
+SFX Dn る れば .
+
+SFX Do Y 1
+SFX Do る れば .
+
+SFX Dp Y 1
+SFX Dp る れる .
+
+SFX Dq Y 22
+SFX Dq いる い .
+SFX Dq える え .
+SFX Dq きる き .
+SFX Dq ぎる ぎ .
+SFX Dq ける け .
+SFX Dq げる げ .
+SFX Dq じる じ .
+SFX Dq せる せ .
+SFX Dq ぜる ぜ .
+SFX Dq ちる ち .
+SFX Dq てる て .
+SFX Dq でる で .
+SFX Dq にる に .
+SFX Dq ねる ね .
+SFX Dq ひる ひ .
+SFX Dq びる び .
+SFX Dq へる へ .
+SFX Dq べる べ .
+SFX Dq みる み .
+SFX Dq める め .
+SFX Dq りる り .
+SFX Dq れる れ .
+
+SFX Dr Y 9
+SFX Dr う い .
+SFX Dr く き .
+SFX Dr ぐ ぎ .
+SFX Dr す し .
+SFX Dr つ ち .
+SFX Dr ぬ に .
+SFX Dr ぶ び .
+SFX Dr む み .
+SFX Dr る り .
+
+SFX Ds Y 9
+SFX Ds う え .
+SFX Ds く け .
+SFX Ds ぐ げ .
+SFX Ds す せ .
+SFX Ds つ て .
+SFX Ds ぬ ね .
+SFX Ds ぶ べ .
+SFX Ds む め .
+SFX Ds る れ .
+
+SFX Dt Y 1
+SFX Dt い く .
+
+SFX Du Y 1
+SFX Du い さ .
+
+SFX Dv Y 1
+SFX Dv る ず .
+
+SFX Dw Y 1
+SFX Dw る た .
+
+SFX Dx Y 1
+SFX Dx る て .
+
+SFX Dy Y 1
+SFX Dy 0 な .
+
+SFX Dz Y 1
+SFX Dz 0 な .
+
+SFX Ea Y 1
+SFX Ea 0 な .
+
+SFX Eb Y 1
+SFX Eb 0 な .
+
+SFX Ec Y 2
+SFX Ec る よ .
+SFX Ec る ろ .

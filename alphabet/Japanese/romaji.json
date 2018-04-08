@@ -1,0 +1,95 @@
+{
+"language": "JP",
+"letters": [
+	{
+		"letter": "a",
+		"frequency": 14,
+		"points": 1
+	}, {
+		"letter": "o",
+		"frequency": 10,
+		"points": 1
+	}, {
+		"letter": "i",
+		"frequency": 10,
+		"points": 1
+	}, {
+		"letter": "u",
+		"frequency": 8,
+		"points": 2
+	}, {
+		"letter": "n",
+		"frequency": 8,
+		"points": 2
+	}, {
+		"letter": "e",
+		"frequency": 6,
+		"points": 3
+	}, {
+		"letter": "k",
+		"frequency": 6,
+		"points": 3
+	}, {
+		"letter": "t",
+		"frequency": 5,
+		"points": 4
+	}, {
+		"letter": "s",
+		"frequency": 5,
+		"points": 4
+	}, {
+		"letter": "r",
+		"frequency": 4,
+		"points": 5
+	}, {
+		"letter": "h",
+		"frequency": 3,
+		"points": 5
+	}, {
+		"letter": "m",
+		"frequency": 2,
+		"points": 6
+	}, {
+		"letter": "d",
+		"frequency": 2,
+		"points": 6
+	}, {
+		"letter": "g",
+		"frequency": 2,
+		"points": 6
+	}, {
+		"letter": "y",
+		"frequency": 1,
+		"points": 6
+	}, {
+		"letter": "j",
+		"frequency": 1,
+		"points": 7
+	}, {
+		"letter": "ch",
+		"frequency": 1,
+		"points": 7
+	}, {
+		"letter": "b",
+		"frequency": 1,
+		"points": 7
+	}, {
+		"letter": "w",
+		"frequency": 1,
+		"points": 8
+	}, {
+		"letter": "z",
+		"frequency": 1,
+		"points": 8
+	}, {
+		"letter": "f",
+		"frequency": 1,
+		"points": 9
+	}, {
+		"letter": "p",
+		"frequency": 1,
+		"points": 10
+	}
+],
+"conversions": [{"from":"chcha","to":"っちゃ"},{"from":"chche","to":"っちぇ"},{"from":"chcho","to":"っちょ"},{"from":"chchu","to":"っちゅ"},{"from":"bbya","to":"っびゃ"},{"from":"bbyo","to":"っびょ"},{"from":"bbyu","to":"っびゅ"},{"from":"ddya","to":"っぢゃ"},{"from":"ddyo","to":"っぢょ"},{"from":"ddyu","to":"っぢゅ"},{"from":"ddzu","to":"っづ"},{"from":"ggya","to":"っぎゃ"},{"from":"ggyo","to":"っぎょ"},{"from":"ggyu","to":"っぎゅ"},{"from":"kkya","to":"っきゃ"},{"from":"kkyo","to":"っきょ"},{"from":"kkyu","to":"っきゅ"},{"from":"nnya","to":"んや"},{"from":"nnyo","to":"んよ"},{"from":"nnyu","to":"んゆ"},{"from":"ppya","to":"っぴゃ"},{"from":"ppyo","to":"っぴょ"},{"from":"ppyu","to":"っぴゅ"},{"from":"rrya","to":"っりゃ"},{"from":"rryo","to":"っりょ"},{"from":"rryu","to":"っりゅ"},{"from":"ssha","to":"っしゃ"},{"from":"sshi","to":"っし"},{"from":"ssho","to":"っしょ"},{"from":"sshu","to":"っしゅ"},{"from":"ttsu","to":"っつ"},{"from":"bba","to":"っば"},{"from":"bbe","to":"っべ"},{"from":"bbi","to":"っび"},{"from":"bbo","to":"っぼ"},{"from":"bbu","to":"っぶ"},{"from":"bya","to":"びゃ"},{"from":"byo","to":"びょ"},{"from":"byu","to":"びゅ"},{"from":"cha","to":"ちゃ"},{"from":"che","to":"ちぇ"},{"from":"chi","to":"ち"},{"from":"cho","to":"ちょ"},{"from":"chu","to":"ちゅ"},{"from":"dda","to":"っだ"},{"from":"dde","to":"っで"},{"from":"ddi","to":"っでぃ"},{"from":"ddo","to":"っど"},{"from":"ddu","to":"っどぅ"},{"from":"dya","to":"ぢゃ"},{"from":"dyo","to":"ぢょ"},{"from":"dyu","to":"ぢゅ"},{"from":"dzu","to":"づ"},{"from":"gga","to":"っが"},{"from":"gge","to":"っげ"},{"from":"ggi","to":"っぎ"},{"from":"ggo","to":"っご"},{"from":"ggu","to":"っぐ"},{"from":"gya","to":"ぎゃ"},{"from":"gyo","to":"ぎょ"},{"from":"gyu","to":"ぎゅ"},{"from":"hya","to":"ひゃ"},{"from":"hyo","to":"ひょ"},{"from":"hyu","to":"ひゅ"},{"from":"kka","to":"っか"},{"from":"kke","to":"っけ"},{"from":"kki","to":"っき"},{"from":"kko","to":"っこ"},{"from":"kku","to":"っく"},{"from":"kya","to":"きゃ"},{"from":"kyo","to":"きょ"},{"from":"kyu","to":"きゅ"},{"from":"mya","to":"みゃ"},{"from":"myo","to":"みょ"},{"from":"myu","to":"みゅ"},{"from":"nya","to":"にゃ"},{"from":"nyo","to":"にょ"},{"from":"nyu","to":"にゅ"},{"from":"ppa","to":"っぱ"},{"from":"ppe","to":"っぺ"},{"from":"ppi","to":"っぴ"},{"from":"ppo","to":"っぽ"},{"from":"ppu","to":"っぷ"},{"from":"pya","to":"ぴゃ"},{"from":"pyo","to":"ぴょ"},{"from":"pyu","to":"ぴゅ"},{"from":"rra","to":"っら"},{"from":"rre","to":"っれ"},{"from":"rri","to":"っり"},{"from":"rro","to":"っろ"},{"from":"rru","to":"っる"},{"from":"rya","to":"りゃ"},{"from":"ryo","to":"りょ"},{"from":"ryu","to":"りゅ"},{"from":"sha","to":"しゃ"},{"from":"shi","to":"し"},{"from":"sho","to":"しょ"},{"from":"shu","to":"しゅ"},{"from":"ssa","to":"っさ"},{"from":"sse","to":"っせ"},{"from":"sso","to":"っそ"},{"from":"ssu","to":"っす"},{"from":"tsu","to":"つ"},{"from":"tta","to":"った"},{"from":"tte","to":"って"},{"from":"tti","to":"ってぃ"},{"from":"tto","to":"っと"},{"from":"ttu","to":"っとぅ"},{"from":"zza","to":"っざ"},{"from":"zze","to":"っぜ"},{"from":"zzi","to":"っじ"},{"from":"zzo","to":"っぞ"},{"from":"zzu","to":"っず"},{"from":"ba","to":"ば"},{"from":"be","to":"べ"},{"from":"bi","to":"び"},{"from":"bo","to":"ぼ"},{"from":"bu","to":"ぶ"},{"from":"da","to":"だ"},{"from":"de","to":"で"},{"from":"di","to":"でぃ"},{"from":"do","to":"ど"},{"from":"du","to":"どぅ"},{"from":"fa","to":"ふぁ"},{"from":"fe","to":"ふぇ"},{"from":"fi","to":"ふぃ"},{"from":"fo","to":"ふぉ"},{"from":"fu","to":"ふ"},{"from":"ga","to":"が"},{"from":"ge","to":"げ"},{"from":"gi","to":"ぎ"},{"from":"go","to":"ご"},{"from":"gu","to":"ぐ"},{"from":"ha","to":"は"},{"from":"he","to":"へ"},{"from":"hi","to":"ひ"},{"from":"ho","to":"ほ"},{"from":"ja","to":"じゃ"},{"from":"ji","to":"じ"},{"from":"jo","to":"じょ"},{"from":"ju","to":"じゅ"},{"from":"ka","to":"か"},{"from":"ke","to":"け"},{"from":"ki","to":"き"},{"from":"ko","to":"こ"},{"from":"ku","to":"く"},{"from":"ma","to":"ま"},{"from":"me","to":"め"},{"from":"mi","to":"み"},{"from":"mo","to":"も"},{"from":"mu","to":"む"},{"from":"na","to":"な"},{"from":"ne","to":"ね"},{"from":"ni","to":"に"},{"from":"no","to":"の"},{"from":"nu","to":"ぬ"},{"from":"pa","to":"ぱ"},{"from":"pe","to":"ぺ"},{"from":"pi","to":"ぴ"},{"from":"po","to":"ぽ"},{"from":"pu","to":"ぷ"},{"from":"ra","to":"ら"},{"from":"re","to":"れ"},{"from":"ri","to":"り"},{"from":"ro","to":"ろ"},{"from":"ru","to":"る"},{"from":"sa","to":"さ"},{"from":"se","to":"せ"},{"from":"so","to":"そ"},{"from":"su","to":"す"},{"from":"ta","to":"た"},{"from":"te","to":"て"},{"from":"ti","to":"てぃ"},{"from":"to","to":"と"},{"from":"tu","to":"とぅ"},{"from":"wa","to":"わ"},{"from":"wo","to":"を"},{"from":"ya","to":"や"},{"from":"yo","to":"よ"},{"from":"yu","to":"ゆ"},{"from":"za","to":"ざ"},{"from":"ze","to":"ぜ"},{"from":"zi","to":"じ"},{"from":"zo","to":"ぞ"},{"from":"zu","to":"ず"},{"from":"a","to":"あ"},{"from":"e","to":"え"},{"from":"i","to":"い"},{"from":"n","to":"ん"},{"from":"o","to":"お"},{"from":"u","to":"う"}]
+}
